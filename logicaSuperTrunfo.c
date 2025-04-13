@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-int main(){
+int main() {
 
     char estado1[50], estado2[50], codigocarta1[50], codigocarta2[50], nomedacidade1[50], nomedacidade2[50]; 
     unsigned long int populacaocarta1, populacaocarta2;
